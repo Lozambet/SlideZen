@@ -1,0 +1,8 @@
+{
+  "name": "Remix SlideZen - Fast AI Slide Studio",
+  "description": "Piattaforma minimalista e ultra-veloce per creare diapositive professionali dal testo con organizzazione in tempo reale, template visivi, suggerimenti grafici e correzione ortografica senza alterare i tuoi testi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
